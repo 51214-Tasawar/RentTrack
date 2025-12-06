@@ -12,7 +12,7 @@ const Home = () => {
             <img src={pic1} alt="Map Image" class="w-11/12 h-3/4 rounded-xl" />
           </div>
           <div class="w-6/12 flex flex-col justify-center items-center border-collapse border-b rounded-md">
-          <p>RentIQ makes renting easier, faster, and more transparent. Discover verified properties, 
+          <p class="font-serif text-2xl text-white p-7">RentIQ makes renting easier, faster, and more transparent. Discover verified properties, 
             compare rental options, and make informed decisions — all in one smart platform.</p>
           </div>
         </div>

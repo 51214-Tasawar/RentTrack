@@ -1,0 +1,1962 @@
+  [
+    {
+      "city": "Rawalpindi",
+      "properties": [
+        {
+          "id": 1,
+          "title": "Villa in Rawalpindi",
+          "type": "Villa",
+          "price": 53022,
+          "location": "193 Ocean Drive, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+1_1",
+            "https://via.placeholder.com/400x300?text=Property+1_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "area": "3200 sqft",
+          "rating": "3.4",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 15,
+          "title": "Commercial in Rawalpindi",
+          "type": "Commercial",
+          "price": 449403,
+          "location": "189 Ocean Drive, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+15_1",
+            "https://via.placeholder.com/400x300?text=Property+15_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 2,
+          "area": "1324 sqft",
+          "rating": "1.1",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 16,
+          "title": "Villa in Rawalpindi",
+          "type": "Villa",
+          "price": 259634,
+          "location": "102 Hill Road, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+16_1",
+            "https://via.placeholder.com/400x300?text=Property+16_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 3,
+          "area": "3746 sqft",
+          "rating": "4.8",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 17,
+          "title": "Studio in Rawalpindi",
+          "type": "Studio",
+          "price": 210183,
+          "location": "148 Ocean Drive, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+17_1",
+            "https://via.placeholder.com/400x300?text=Property+17_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "area": "3219 sqft",
+          "rating": "1.3",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 32,
+          "title": "Villa in Rawalpindi",
+          "type": "Villa",
+          "price": 379067,
+          "location": "85 Hill Road, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+32_1",
+            "https://via.placeholder.com/400x300?text=Property+32_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 4,
+          "area": "2507 sqft",
+          "rating": "3.4",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 33,
+          "title": "Studio in Rawalpindi",
+          "type": "Studio",
+          "price": 137308,
+          "location": "184 Ocean Drive, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+33_1",
+            "https://via.placeholder.com/400x300?text=Property+33_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "area": "1019 sqft",
+          "rating": "1.5",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 41,
+          "title": "House in Rawalpindi",
+          "type": "House",
+          "price": 122556,
+          "location": "16 Hill Road, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+41_1",
+            "https://via.placeholder.com/400x300?text=Property+41_2"
+          ],
+          "bedrooms": 4,
+          "bathrooms": 1,
+          "area": "3096 sqft",
+          "rating": "1.2",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 42,
+          "title": "Commercial in Rawalpindi",
+          "type": "Commercial",
+          "price": 347640,
+          "location": "147 Park Avenue, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+42_1",
+            "https://via.placeholder.com/400x300?text=Property+42_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 3,
+          "area": "2934 sqft",
+          "rating": "2.0",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 47,
+          "title": "House in Rawalpindi",
+          "type": "House",
+          "price": 199728,
+          "location": "31 Ocean Drive, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+47_1",
+            "https://via.placeholder.com/400x300?text=Property+47_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 3,
+          "area": "1604 sqft",
+          "rating": "3.7",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 56,
+          "title": "Villa in Rawalpindi",
+          "type": "Villa",
+          "price": 117598,
+          "location": "15 Main St, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+56_1",
+            "https://via.placeholder.com/400x300?text=Property+56_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 1,
+          "area": "1883 sqft",
+          "rating": "2.3",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 72,
+          "title": "Villa in Rawalpindi",
+          "type": "Villa",
+          "price": 482830,
+          "location": "138 Park Avenue, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+72_1",
+            "https://via.placeholder.com/400x300?text=Property+72_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 2,
+          "area": "1227 sqft",
+          "rating": "1.4",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 74,
+          "title": "Studio in Rawalpindi",
+          "type": "Studio",
+          "price": 281911,
+          "location": "24 Ocean Drive, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+74_1",
+            "https://via.placeholder.com/400x300?text=Property+74_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 3,
+          "area": "3188 sqft",
+          "rating": "1.1",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 87,
+          "title": "Apartment in Rawalpindi",
+          "type": "Apartment",
+          "price": 143699,
+          "location": "191 Main St, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+87_1",
+            "https://via.placeholder.com/400x300?text=Property+87_2"
+          ],
+          "bedrooms": 6,
+          "bathrooms": 4,
+          "area": "3463 sqft",
+          "rating": "4.9",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 96,
+          "title": "Apartment in Rawalpindi",
+          "type": "Apartment",
+          "price": 234820,
+          "location": "93 Ocean Drive, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+96_1",
+            "https://via.placeholder.com/400x300?text=Property+96_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "area": "3947 sqft",
+          "rating": "3.1",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 98,
+          "title": "House in Rawalpindi",
+          "type": "House",
+          "price": 442922,
+          "location": "74 Main St, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+98_1",
+            "https://via.placeholder.com/400x300?text=Property+98_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 4,
+          "area": "1291 sqft",
+          "rating": "4.2",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 105,
+          "title": "Villa in Rawalpindi",
+          "type": "Villa",
+          "price": 121668,
+          "location": "159 Main St, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+105_1",
+            "https://via.placeholder.com/400x300?text=Property+105_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 4,
+          "area": "1544 sqft",
+          "rating": "4.5",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 108,
+          "title": "Commercial in Rawalpindi",
+          "type": "Commercial",
+          "price": 296735,
+          "location": "23 Park Avenue, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+108_1",
+            "https://via.placeholder.com/400x300?text=Property+108_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 2,
+          "area": "2544 sqft",
+          "rating": "2.3",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 110,
+          "title": "Studio in Rawalpindi",
+          "type": "Studio",
+          "price": 82415,
+          "location": "2 Ocean Drive, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+110_1",
+            "https://via.placeholder.com/400x300?text=Property+110_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 4,
+          "area": "1005 sqft",
+          "rating": "1.8",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 118,
+          "title": "House in Rawalpindi",
+          "type": "House",
+          "price": 306932,
+          "location": "164 Park Avenue, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+118_1",
+            "https://via.placeholder.com/400x300?text=Property+118_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 4,
+          "area": "3187 sqft",
+          "rating": "4.8",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 120,
+          "title": "Apartment in Rawalpindi",
+          "type": "Apartment",
+          "price": 383527,
+          "location": "38 Main St, Rawalpindi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+120_1",
+            "https://via.placeholder.com/400x300?text=Property+120_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 3,
+          "area": "767 sqft",
+          "rating": "2.5",
+          "description": "Beautiful property with stunning views."
+        }
+      ]
+    },
+    {
+      "city": "Karachi",
+      "properties": [
+        {
+          "id": 2,
+          "title": "House in Karachi",
+          "type": "House",
+          "price": 448056,
+          "location": "149 Hill Road, Karachi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+2_1",
+            "https://via.placeholder.com/400x300?text=Property+2_2"
+          ],
+          "bedrooms": 4,
+          "bathrooms": 2,
+          "area": "2804 sqft",
+          "rating": "4.9",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 11,
+          "title": "Apartment in Karachi",
+          "type": "Apartment",
+          "price": 62610,
+          "location": "117 Hill Road, Karachi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+11_1",
+            "https://via.placeholder.com/400x300?text=Property+11_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "area": "1321 sqft",
+          "rating": "2.5",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 22,
+          "title": "Villa in Karachi",
+          "type": "Villa",
+          "price": 485843,
+          "location": "154 Main St, Karachi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+22_1",
+            "https://via.placeholder.com/400x300?text=Property+22_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 3,
+          "area": "822 sqft",
+          "rating": "4.1",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 58,
+          "title": "Studio in Karachi",
+          "type": "Studio",
+          "price": 381444,
+          "location": "180 Main St, Karachi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+58_1",
+            "https://via.placeholder.com/400x300?text=Property+58_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 2,
+          "area": "2735 sqft",
+          "rating": "1.3",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 65,
+          "title": "Studio in Karachi",
+          "type": "Studio",
+          "price": 235074,
+          "location": "63 Hill Road, Karachi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+65_1",
+            "https://via.placeholder.com/400x300?text=Property+65_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 3,
+          "area": "3741 sqft",
+          "rating": "5.0",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 68,
+          "title": "Studio in Karachi",
+          "type": "Studio",
+          "price": 285525,
+          "location": "108 Hill Road, Karachi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+68_1",
+            "https://via.placeholder.com/400x300?text=Property+68_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "area": "1522 sqft",
+          "rating": "4.7",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 70,
+          "title": "House in Karachi",
+          "type": "House",
+          "price": 148409,
+          "location": "109 Park Avenue, Karachi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+70_1",
+            "https://via.placeholder.com/400x300?text=Property+70_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 2,
+          "area": "3491 sqft",
+          "rating": "2.7",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 93,
+          "title": "Studio in Karachi",
+          "type": "Studio",
+          "price": 323495,
+          "location": "92 Main St, Karachi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+93_1",
+            "https://via.placeholder.com/400x300?text=Property+93_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 2,
+          "area": "2919 sqft",
+          "rating": "4.0",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 103,
+          "title": "Commercial in Karachi",
+          "type": "Commercial",
+          "price": 63966,
+          "location": "111 Main St, Karachi, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+103_1",
+            "https://via.placeholder.com/400x300?text=Property+103_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "area": "3697 sqft",
+          "rating": "1.2",
+          "description": "Cozy and comfortable living space in prime location."
+        }
+      ]
+    },
+    {
+      "city": "Peshawar",
+      "properties": [
+        {
+          "id": 3,
+          "title": "Studio in Peshawar",
+          "type": "Studio",
+          "price": 190536,
+          "location": "27 Main St, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+3_1",
+            "https://via.placeholder.com/400x300?text=Property+3_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 2,
+          "area": "1313 sqft",
+          "rating": "1.9",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 6,
+          "title": "House in Peshawar",
+          "type": "House",
+          "price": 473217,
+          "location": "2 Ocean Drive, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+6_1",
+            "https://via.placeholder.com/400x300?text=Property+6_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 3,
+          "area": "2618 sqft",
+          "rating": "4.0",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 8,
+          "title": "Commercial in Peshawar",
+          "type": "Commercial",
+          "price": 56518,
+          "location": "131 Ocean Drive, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+8_1",
+            "https://via.placeholder.com/400x300?text=Property+8_2"
+          ],
+          "bedrooms": 4,
+          "bathrooms": 3,
+          "area": "877 sqft",
+          "rating": "1.7",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 13,
+          "title": "Commercial in Peshawar",
+          "type": "Commercial",
+          "price": 113165,
+          "location": "55 Ocean Drive, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+13_1",
+            "https://via.placeholder.com/400x300?text=Property+13_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "area": "2094 sqft",
+          "rating": "3.9",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 14,
+          "title": "Villa in Peshawar",
+          "type": "Villa",
+          "price": 176128,
+          "location": "45 Ocean Drive, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+14_1",
+            "https://via.placeholder.com/400x300?text=Property+14_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 3,
+          "area": "1598 sqft",
+          "rating": "4.9",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 18,
+          "title": "Villa in Peshawar",
+          "type": "Villa",
+          "price": 171340,
+          "location": "164 Park Avenue, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+18_1",
+            "https://via.placeholder.com/400x300?text=Property+18_2"
+          ],
+          "bedrooms": 6,
+          "bathrooms": 3,
+          "area": "978 sqft",
+          "rating": "3.7",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 27,
+          "title": "House in Peshawar",
+          "type": "House",
+          "price": 271085,
+          "location": "124 Ocean Drive, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+27_1",
+            "https://via.placeholder.com/400x300?text=Property+27_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 3,
+          "area": "2736 sqft",
+          "rating": "3.4",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 28,
+          "title": "Studio in Peshawar",
+          "type": "Studio",
+          "price": 421734,
+          "location": "144 Main St, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+28_1",
+            "https://via.placeholder.com/400x300?text=Property+28_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "area": "749 sqft",
+          "rating": "4.7",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 48,
+          "title": "Commercial in Peshawar",
+          "type": "Commercial",
+          "price": 199554,
+          "location": "54 Hill Road, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+48_1",
+            "https://via.placeholder.com/400x300?text=Property+48_2"
+          ],
+          "bedrooms": 4,
+          "bathrooms": 4,
+          "area": "2204 sqft",
+          "rating": "4.8",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 49,
+          "title": "Villa in Peshawar",
+          "type": "Villa",
+          "price": 264340,
+          "location": "121 Ocean Drive, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+49_1",
+            "https://via.placeholder.com/400x300?text=Property+49_2"
+          ],
+          "bedrooms": 6,
+          "bathrooms": 4,
+          "area": "2194 sqft",
+          "rating": "1.8",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 69,
+          "title": "Commercial in Peshawar",
+          "type": "Commercial",
+          "price": 96532,
+          "location": "183 Park Avenue, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+69_1",
+            "https://via.placeholder.com/400x300?text=Property+69_2"
+          ],
+          "bedrooms": 4,
+          "bathrooms": 3,
+          "area": "3343 sqft",
+          "rating": "3.1",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 78,
+          "title": "Studio in Peshawar",
+          "type": "Studio",
+          "price": 171343,
+          "location": "57 Main St, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+78_1",
+            "https://via.placeholder.com/400x300?text=Property+78_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 3,
+          "area": "2299 sqft",
+          "rating": "1.2",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 81,
+          "title": "House in Peshawar",
+          "type": "House",
+          "price": 397836,
+          "location": "118 Main St, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+81_1",
+            "https://via.placeholder.com/400x300?text=Property+81_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 4,
+          "area": "1983 sqft",
+          "rating": "1.7",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 106,
+          "title": "Studio in Peshawar",
+          "type": "Studio",
+          "price": 151440,
+          "location": "153 Hill Road, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+106_1",
+            "https://via.placeholder.com/400x300?text=Property+106_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "area": "1327 sqft",
+          "rating": "4.5",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 111,
+          "title": "Studio in Peshawar",
+          "type": "Studio",
+          "price": 410495,
+          "location": "26 Ocean Drive, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+111_1",
+            "https://via.placeholder.com/400x300?text=Property+111_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 4,
+          "area": "2420 sqft",
+          "rating": "1.0",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 116,
+          "title": "Commercial in Peshawar",
+          "type": "Commercial",
+          "price": 372796,
+          "location": "35 Ocean Drive, Peshawar, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+116_1",
+            "https://via.placeholder.com/400x300?text=Property+116_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 1,
+          "area": "3683 sqft",
+          "rating": "5.0",
+          "description": "Beautiful property with stunning views."
+        }
+      ]
+    },
+    {
+      "city": "Quetta",
+      "properties": [
+        {
+          "id": 4,
+          "title": "Commercial in Quetta",
+          "type": "Commercial",
+          "price": 234484,
+          "location": "78 Ocean Drive, Quetta, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+4_1",
+            "https://via.placeholder.com/400x300?text=Property+4_2"
+          ],
+          "bedrooms": 6,
+          "bathrooms": 1,
+          "area": "2056 sqft",
+          "rating": "1.3",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 7,
+          "title": "Studio in Quetta",
+          "type": "Studio",
+          "price": 329767,
+          "location": "112 Main St, Quetta, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+7_1",
+            "https://via.placeholder.com/400x300?text=Property+7_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 2,
+          "area": "1051 sqft",
+          "rating": "3.4",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 20,
+          "title": "Studio in Quetta",
+          "type": "Studio",
+          "price": 108620,
+          "location": "138 Park Avenue, Quetta, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+20_1",
+            "https://via.placeholder.com/400x300?text=Property+20_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 3,
+          "area": "2084 sqft",
+          "rating": "2.9",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 23,
+          "title": "Villa in Quetta",
+          "type": "Villa",
+          "price": 319504,
+          "location": "70 Hill Road, Quetta, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+23_1",
+            "https://via.placeholder.com/400x300?text=Property+23_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 1,
+          "area": "1769 sqft",
+          "rating": "4.9",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 35,
+          "title": "House in Quetta",
+          "type": "House",
+          "price": 213257,
+          "location": "128 Ocean Drive, Quetta, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+35_1",
+            "https://via.placeholder.com/400x300?text=Property+35_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 3,
+          "area": "1151 sqft",
+          "rating": "3.1",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 59,
+          "title": "House in Quetta",
+          "type": "House",
+          "price": 226096,
+          "location": "107 Ocean Drive, Quetta, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+59_1",
+            "https://via.placeholder.com/400x300?text=Property+59_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 1,
+          "area": "1045 sqft",
+          "rating": "3.3",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 61,
+          "title": "Commercial in Quetta",
+          "type": "Commercial",
+          "price": 470488,
+          "location": "105 Park Avenue, Quetta, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+61_1",
+            "https://via.placeholder.com/400x300?text=Property+61_2"
+          ],
+          "bedrooms": 4,
+          "bathrooms": 2,
+          "area": "2609 sqft",
+          "rating": "1.7",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 62,
+          "title": "Villa in Quetta",
+          "type": "Villa",
+          "price": 80137,
+          "location": "55 Hill Road, Quetta, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+62_1",
+            "https://via.placeholder.com/400x300?text=Property+62_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 4,
+          "area": "1613 sqft",
+          "rating": "4.6",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 80,
+          "title": "Apartment in Quetta",
+          "type": "Apartment",
+          "price": 86547,
+          "location": "134 Park Avenue, Quetta, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+80_1",
+            "https://via.placeholder.com/400x300?text=Property+80_2"
+          ],
+          "bedrooms": 4,
+          "bathrooms": 3,
+          "area": "1589 sqft",
+          "rating": "4.3",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 84,
+          "title": "House in Quetta",
+          "type": "House",
+          "price": 454990,
+          "location": "173 Ocean Drive, Quetta, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+84_1",
+            "https://via.placeholder.com/400x300?text=Property+84_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "area": "1229 sqft",
+          "rating": "3.4",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 90,
+          "title": "Apartment in Quetta",
+          "type": "Apartment",
+          "price": 244766,
+          "location": "41 Main St, Quetta, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+90_1",
+            "https://via.placeholder.com/400x300?text=Property+90_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "area": "3647 sqft",
+          "rating": "3.7",
+          "description": "Ideal property for families and professionals."
+        }
+      ]
+    },
+    {
+      "city": "Multan",
+      "properties": [
+        {
+          "id": 5,
+          "title": "Villa in Multan",
+          "type": "Villa",
+          "price": 170654,
+          "location": "143 Hill Road, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+5_1",
+            "https://via.placeholder.com/400x300?text=Property+5_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 1,
+          "area": "1493 sqft",
+          "rating": "4.6",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 19,
+          "title": "Villa in Multan",
+          "type": "Villa",
+          "price": 222487,
+          "location": "138 Park Avenue, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+19_1",
+            "https://via.placeholder.com/400x300?text=Property+19_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 1,
+          "area": "2343 sqft",
+          "rating": "2.4",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 25,
+          "title": "Studio in Multan",
+          "type": "Studio",
+          "price": 170563,
+          "location": "100 Ocean Drive, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+25_1",
+            "https://via.placeholder.com/400x300?text=Property+25_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 3,
+          "area": "1249 sqft",
+          "rating": "2.2",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 26,
+          "title": "Villa in Multan",
+          "type": "Villa",
+          "price": 259498,
+          "location": "23 Main St, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+26_1",
+            "https://via.placeholder.com/400x300?text=Property+26_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 1,
+          "area": "404 sqft",
+          "rating": "4.8",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 37,
+          "title": "Apartment in Multan",
+          "type": "Apartment",
+          "price": 447671,
+          "location": "134 Park Avenue, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+37_1",
+            "https://via.placeholder.com/400x300?text=Property+37_2"
+          ],
+          "bedrooms": 6,
+          "bathrooms": 3,
+          "area": "3955 sqft",
+          "rating": "3.6",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 39,
+          "title": "Villa in Multan",
+          "type": "Villa",
+          "price": 417150,
+          "location": "179 Park Avenue, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+39_1",
+            "https://via.placeholder.com/400x300?text=Property+39_2"
+          ],
+          "bedrooms": 4,
+          "bathrooms": 1,
+          "area": "3956 sqft",
+          "rating": "2.2",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 44,
+          "title": "Villa in Multan",
+          "type": "Villa",
+          "price": 212975,
+          "location": "161 Park Avenue, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+44_1",
+            "https://via.placeholder.com/400x300?text=Property+44_2"
+          ],
+          "bedrooms": 6,
+          "bathrooms": 3,
+          "area": "2691 sqft",
+          "rating": "2.4",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 51,
+          "title": "Villa in Multan",
+          "type": "Villa",
+          "price": 488378,
+          "location": "34 Main St, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+51_1",
+            "https://via.placeholder.com/400x300?text=Property+51_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 3,
+          "area": "3531 sqft",
+          "rating": "5.0",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 52,
+          "title": "House in Multan",
+          "type": "House",
+          "price": 78691,
+          "location": "126 Ocean Drive, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+52_1",
+            "https://via.placeholder.com/400x300?text=Property+52_2"
+          ],
+          "bedrooms": 6,
+          "bathrooms": 3,
+          "area": "537 sqft",
+          "rating": "4.3",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 54,
+          "title": "Studio in Multan",
+          "type": "Studio",
+          "price": 91694,
+          "location": "15 Ocean Drive, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+54_1",
+            "https://via.placeholder.com/400x300?text=Property+54_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 4,
+          "area": "991 sqft",
+          "rating": "2.2",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 57,
+          "title": "House in Multan",
+          "type": "House",
+          "price": 122413,
+          "location": "137 Main St, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+57_1",
+            "https://via.placeholder.com/400x300?text=Property+57_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 3,
+          "area": "3834 sqft",
+          "rating": "2.8",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 64,
+          "title": "House in Multan",
+          "type": "House",
+          "price": 280106,
+          "location": "32 Hill Road, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+64_1",
+            "https://via.placeholder.com/400x300?text=Property+64_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "area": "1564 sqft",
+          "rating": "4.1",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 67,
+          "title": "House in Multan",
+          "type": "House",
+          "price": 499387,
+          "location": "64 Park Avenue, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+67_1",
+            "https://via.placeholder.com/400x300?text=Property+67_2"
+          ],
+          "bedrooms": 6,
+          "bathrooms": 3,
+          "area": "2302 sqft",
+          "rating": "1.4",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 77,
+          "title": "Apartment in Multan",
+          "type": "Apartment",
+          "price": 313356,
+          "location": "104 Ocean Drive, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+77_1",
+            "https://via.placeholder.com/400x300?text=Property+77_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 3,
+          "area": "2702 sqft",
+          "rating": "4.6",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 79,
+          "title": "Commercial in Multan",
+          "type": "Commercial",
+          "price": 362121,
+          "location": "86 Ocean Drive, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+79_1",
+            "https://via.placeholder.com/400x300?text=Property+79_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 3,
+          "area": "1909 sqft",
+          "rating": "2.5",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 95,
+          "title": "Commercial in Multan",
+          "type": "Commercial",
+          "price": 467823,
+          "location": "176 Ocean Drive, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+95_1",
+            "https://via.placeholder.com/400x300?text=Property+95_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "area": "1301 sqft",
+          "rating": "4.5",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 100,
+          "title": "House in Multan",
+          "type": "House",
+          "price": 222249,
+          "location": "28 Main St, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+100_1",
+            "https://via.placeholder.com/400x300?text=Property+100_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 1,
+          "area": "1293 sqft",
+          "rating": "2.3",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 101,
+          "title": "Commercial in Multan",
+          "type": "Commercial",
+          "price": 261206,
+          "location": "42 Park Avenue, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+101_1",
+            "https://via.placeholder.com/400x300?text=Property+101_2"
+          ],
+          "bedrooms": 6,
+          "bathrooms": 3,
+          "area": "603 sqft",
+          "rating": "4.8",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 104,
+          "title": "Commercial in Multan",
+          "type": "Commercial",
+          "price": 318585,
+          "location": "176 Park Avenue, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+104_1",
+            "https://via.placeholder.com/400x300?text=Property+104_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 4,
+          "area": "524 sqft",
+          "rating": "1.3",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 109,
+          "title": "Commercial in Multan",
+          "type": "Commercial",
+          "price": 120510,
+          "location": "39 Main St, Multan, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+109_1",
+            "https://via.placeholder.com/400x300?text=Property+109_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 4,
+          "area": "466 sqft",
+          "rating": "2.9",
+          "description": "A spacious and modern property with garden and garage."
+        }
+      ]
+    },
+    {
+      "city": "Faisalabad",
+      "properties": [
+        {
+          "id": 9,
+          "title": "Apartment in Faisalabad",
+          "type": "Apartment",
+          "price": 232015,
+          "location": "114 Main St, Faisalabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+9_1",
+            "https://via.placeholder.com/400x300?text=Property+9_2"
+          ],
+          "bedrooms": 4,
+          "bathrooms": 4,
+          "area": "2639 sqft",
+          "rating": "3.0",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 21,
+          "title": "Apartment in Faisalabad",
+          "type": "Apartment",
+          "price": 283929,
+          "location": "25 Ocean Drive, Faisalabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+21_1",
+            "https://via.placeholder.com/400x300?text=Property+21_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 4,
+          "area": "1428 sqft",
+          "rating": "1.1",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 43,
+          "title": "House in Faisalabad",
+          "type": "House",
+          "price": 458190,
+          "location": "157 Ocean Drive, Faisalabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+43_1",
+            "https://via.placeholder.com/400x300?text=Property+43_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "area": "3520 sqft",
+          "rating": "2.8",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 50,
+          "title": "Villa in Faisalabad",
+          "type": "Villa",
+          "price": 484474,
+          "location": "149 Hill Road, Faisalabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+50_1",
+            "https://via.placeholder.com/400x300?text=Property+50_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 1,
+          "area": "606 sqft",
+          "rating": "3.7",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 55,
+          "title": "House in Faisalabad",
+          "type": "House",
+          "price": 241258,
+          "location": "164 Park Avenue, Faisalabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+55_1",
+            "https://via.placeholder.com/400x300?text=Property+55_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "area": "3432 sqft",
+          "rating": "3.1",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 66,
+          "title": "Apartment in Faisalabad",
+          "type": "Apartment",
+          "price": 212216,
+          "location": "88 Ocean Drive, Faisalabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+66_1",
+            "https://via.placeholder.com/400x300?text=Property+66_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 4,
+          "area": "3085 sqft",
+          "rating": "4.4",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 85,
+          "title": "Commercial in Faisalabad",
+          "type": "Commercial",
+          "price": 74416,
+          "location": "36 Ocean Drive, Faisalabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+85_1",
+            "https://via.placeholder.com/400x300?text=Property+85_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "area": "3174 sqft",
+          "rating": "3.1",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 88,
+          "title": "Villa in Faisalabad",
+          "type": "Villa",
+          "price": 143515,
+          "location": "66 Main St, Faisalabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+88_1",
+            "https://via.placeholder.com/400x300?text=Property+88_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "area": "892 sqft",
+          "rating": "2.5",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 97,
+          "title": "Commercial in Faisalabad",
+          "type": "Commercial",
+          "price": 361693,
+          "location": "59 Park Avenue, Faisalabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+97_1",
+            "https://via.placeholder.com/400x300?text=Property+97_2"
+          ],
+          "bedrooms": 4,
+          "bathrooms": 3,
+          "area": "1160 sqft",
+          "rating": "1.9",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 107,
+          "title": "House in Faisalabad",
+          "type": "House",
+          "price": 138708,
+          "location": "198 Ocean Drive, Faisalabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+107_1",
+            "https://via.placeholder.com/400x300?text=Property+107_2"
+          ],
+          "bedrooms": 4,
+          "bathrooms": 1,
+          "area": "3311 sqft",
+          "rating": "4.3",
+          "description": "Cozy and comfortable living space in prime location."
+        }
+      ]
+    },
+    {
+      "city": "Lahore",
+      "properties": [
+        {
+          "id": 10,
+          "title": "Studio in Lahore",
+          "type": "Studio",
+          "price": 123438,
+          "location": "118 Park Avenue, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+10_1",
+            "https://via.placeholder.com/400x300?text=Property+10_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 3,
+          "area": "2920 sqft",
+          "rating": "4.3",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 12,
+          "title": "House in Lahore",
+          "type": "House",
+          "price": 199232,
+          "location": "141 Ocean Drive, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+12_1",
+            "https://via.placeholder.com/400x300?text=Property+12_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 3,
+          "area": "2863 sqft",
+          "rating": "1.6",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 24,
+          "title": "Commercial in Lahore",
+          "type": "Commercial",
+          "price": 267376,
+          "location": "160 Hill Road, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+24_1",
+            "https://via.placeholder.com/400x300?text=Property+24_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 1,
+          "area": "1345 sqft",
+          "rating": "1.1",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 30,
+          "title": "Commercial in Lahore",
+          "type": "Commercial",
+          "price": 150125,
+          "location": "156 Hill Road, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+30_1",
+            "https://via.placeholder.com/400x300?text=Property+30_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 2,
+          "area": "1011 sqft",
+          "rating": "4.4",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 38,
+          "title": "Studio in Lahore",
+          "type": "Studio",
+          "price": 66999,
+          "location": "25 Hill Road, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+38_1",
+            "https://via.placeholder.com/400x300?text=Property+38_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 3,
+          "area": "2228 sqft",
+          "rating": "4.7",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 40,
+          "title": "Commercial in Lahore",
+          "type": "Commercial",
+          "price": 85905,
+          "location": "125 Main St, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+40_1",
+            "https://via.placeholder.com/400x300?text=Property+40_2"
+          ],
+          "bedrooms": 6,
+          "bathrooms": 4,
+          "area": "2274 sqft",
+          "rating": "1.9",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 46,
+          "title": "House in Lahore",
+          "type": "House",
+          "price": 125441,
+          "location": "12 Hill Road, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+46_1",
+            "https://via.placeholder.com/400x300?text=Property+46_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 3,
+          "area": "3266 sqft",
+          "rating": "2.7",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 63,
+          "title": "House in Lahore",
+          "type": "House",
+          "price": 138478,
+          "location": "178 Main St, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+63_1",
+            "https://via.placeholder.com/400x300?text=Property+63_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 3,
+          "area": "2966 sqft",
+          "rating": "4.7",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 71,
+          "title": "Apartment in Lahore",
+          "type": "Apartment",
+          "price": 385431,
+          "location": "176 Main St, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+71_1",
+            "https://via.placeholder.com/400x300?text=Property+71_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 4,
+          "area": "425 sqft",
+          "rating": "4.7",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 75,
+          "title": "House in Lahore",
+          "type": "House",
+          "price": 249370,
+          "location": "196 Main St, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+75_1",
+            "https://via.placeholder.com/400x300?text=Property+75_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 1,
+          "area": "3610 sqft",
+          "rating": "2.7",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 82,
+          "title": "Commercial in Lahore",
+          "type": "Commercial",
+          "price": 255855,
+          "location": "80 Ocean Drive, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+82_1",
+            "https://via.placeholder.com/400x300?text=Property+82_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 4,
+          "area": "2341 sqft",
+          "rating": "1.2",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 83,
+          "title": "Apartment in Lahore",
+          "type": "Apartment",
+          "price": 314285,
+          "location": "144 Park Avenue, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+83_1",
+            "https://via.placeholder.com/400x300?text=Property+83_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 1,
+          "area": "2913 sqft",
+          "rating": "3.9",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 89,
+          "title": "Villa in Lahore",
+          "type": "Villa",
+          "price": 378141,
+          "location": "57 Ocean Drive, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+89_1",
+            "https://via.placeholder.com/400x300?text=Property+89_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 1,
+          "area": "2396 sqft",
+          "rating": "1.3",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 94,
+          "title": "Villa in Lahore",
+          "type": "Villa",
+          "price": 76423,
+          "location": "30 Main St, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+94_1",
+            "https://via.placeholder.com/400x300?text=Property+94_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 3,
+          "area": "2288 sqft",
+          "rating": "4.1",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 99,
+          "title": "Studio in Lahore",
+          "type": "Studio",
+          "price": 72354,
+          "location": "157 Ocean Drive, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+99_1",
+            "https://via.placeholder.com/400x300?text=Property+99_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "area": "1904 sqft",
+          "rating": "3.7",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 102,
+          "title": "Apartment in Lahore",
+          "type": "Apartment",
+          "price": 429998,
+          "location": "102 Main St, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+102_1",
+            "https://via.placeholder.com/400x300?text=Property+102_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 4,
+          "area": "1824 sqft",
+          "rating": "1.5",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 113,
+          "title": "House in Lahore",
+          "type": "House",
+          "price": 346862,
+          "location": "97 Ocean Drive, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+113_1",
+            "https://via.placeholder.com/400x300?text=Property+113_2"
+          ],
+          "bedrooms": 4,
+          "bathrooms": 4,
+          "area": "3588 sqft",
+          "rating": "4.9",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 119,
+          "title": "Apartment in Lahore",
+          "type": "Apartment",
+          "price": 473181,
+          "location": "11 Park Avenue, Lahore, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+119_1",
+            "https://via.placeholder.com/400x300?text=Property+119_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 4,
+          "area": "1249 sqft",
+          "rating": "3.4",
+          "description": "Cozy and comfortable living space in prime location."
+        }
+      ]
+    },
+    {
+      "city": "Islamabad",
+      "properties": [
+        {
+          "id": 29,
+          "title": "Villa in Islamabad",
+          "type": "Villa",
+          "price": 122755,
+          "location": "52 Ocean Drive, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+29_1",
+            "https://via.placeholder.com/400x300?text=Property+29_2"
+          ],
+          "bedrooms": 6,
+          "bathrooms": 1,
+          "area": "1933 sqft",
+          "rating": "2.2",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 31,
+          "title": "Commercial in Islamabad",
+          "type": "Commercial",
+          "price": 89643,
+          "location": "52 Park Avenue, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+31_1",
+            "https://via.placeholder.com/400x300?text=Property+31_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 3,
+          "area": "1949 sqft",
+          "rating": "4.5",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 34,
+          "title": "Studio in Islamabad",
+          "type": "Studio",
+          "price": 359357,
+          "location": "140 Ocean Drive, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+34_1",
+            "https://via.placeholder.com/400x300?text=Property+34_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 4,
+          "area": "1244 sqft",
+          "rating": "2.5",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 36,
+          "title": "House in Islamabad",
+          "type": "House",
+          "price": 262083,
+          "location": "120 Main St, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+36_1",
+            "https://via.placeholder.com/400x300?text=Property+36_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 2,
+          "area": "1735 sqft",
+          "rating": "3.8",
+          "description": "Luxury property with all modern amenities."
+        },
+        {
+          "id": 45,
+          "title": "Villa in Islamabad",
+          "type": "Villa",
+          "price": 78811,
+          "location": "112 Ocean Drive, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+45_1",
+            "https://via.placeholder.com/400x300?text=Property+45_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 2,
+          "area": "3621 sqft",
+          "rating": "2.2",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 53,
+          "title": "Commercial in Islamabad",
+          "type": "Commercial",
+          "price": 111089,
+          "location": "163 Hill Road, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+53_1",
+            "https://via.placeholder.com/400x300?text=Property+53_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 4,
+          "area": "3378 sqft",
+          "rating": "2.6",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 60,
+          "title": "House in Islamabad",
+          "type": "House",
+          "price": 146316,
+          "location": "149 Hill Road, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+60_1",
+            "https://via.placeholder.com/400x300?text=Property+60_2"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 1,
+          "area": "3820 sqft",
+          "rating": "4.2",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 73,
+          "title": "Commercial in Islamabad",
+          "type": "Commercial",
+          "price": 112577,
+          "location": "101 Park Avenue, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+73_1",
+            "https://via.placeholder.com/400x300?text=Property+73_2"
+          ],
+          "bedrooms": 4,
+          "bathrooms": 2,
+          "area": "3426 sqft",
+          "rating": "4.6",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 76,
+          "title": "Villa in Islamabad",
+          "type": "Villa",
+          "price": 231470,
+          "location": "187 Main St, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+76_1",
+            "https://via.placeholder.com/400x300?text=Property+76_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 2,
+          "area": "2379 sqft",
+          "rating": "4.4",
+          "description": "Cozy and comfortable living space in prime location."
+        },
+        {
+          "id": 86,
+          "title": "Commercial in Islamabad",
+          "type": "Commercial",
+          "price": 422540,
+          "location": "112 Main St, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+86_1",
+            "https://via.placeholder.com/400x300?text=Property+86_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 4,
+          "area": "2584 sqft",
+          "rating": "4.6",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 91,
+          "title": "Studio in Islamabad",
+          "type": "Studio",
+          "price": 162550,
+          "location": "62 Main St, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+91_1",
+            "https://via.placeholder.com/400x300?text=Property+91_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 2,
+          "area": "2908 sqft",
+          "rating": "2.8",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 92,
+          "title": "Apartment in Islamabad",
+          "type": "Apartment",
+          "price": 427895,
+          "location": "88 Ocean Drive, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+92_1",
+            "https://via.placeholder.com/400x300?text=Property+92_2"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 3,
+          "area": "1371 sqft",
+          "rating": "1.3",
+          "description": "A spacious and modern property with garden and garage."
+        },
+        {
+          "id": 112,
+          "title": "Commercial in Islamabad",
+          "type": "Commercial",
+          "price": 55039,
+          "location": "163 Ocean Drive, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+112_1",
+            "https://via.placeholder.com/400x300?text=Property+112_2"
+          ],
+          "bedrooms": 6,
+          "bathrooms": 4,
+          "area": "1271 sqft",
+          "rating": "2.3",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 114,
+          "title": "Studio in Islamabad",
+          "type": "Studio",
+          "price": 247137,
+          "location": "11 Main St, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+114_1",
+            "https://via.placeholder.com/400x300?text=Property+114_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 4,
+          "area": "1665 sqft",
+          "rating": "2.8",
+          "description": "Beautiful property with stunning views."
+        },
+        {
+          "id": 115,
+          "title": "Studio in Islamabad",
+          "type": "Studio",
+          "price": 408299,
+          "location": "151 Hill Road, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+115_1",
+            "https://via.placeholder.com/400x300?text=Property+115_2"
+          ],
+          "bedrooms": 1,
+          "bathrooms": 4,
+          "area": "1931 sqft",
+          "rating": "3.3",
+          "description": "Ideal property for families and professionals."
+        },
+        {
+          "id": 117,
+          "title": "Villa in Islamabad",
+          "type": "Villa",
+          "price": 311371,
+          "location": "101 Hill Road, Islamabad, Pakistan",
+          "images": [
+            "https://via.placeholder.com/400x300?text=Property+117_1",
+            "https://via.placeholder.com/400x300?text=Property+117_2"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "area": "781 sqft",
+          "rating": "2.5",
+          "description": "Cozy and comfortable living space in prime location."
+        }
+      ]
+    }
+  ]
