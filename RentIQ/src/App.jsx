@@ -15,8 +15,8 @@ const App = () => {
         <div className="flex justify-end items-center p-10 gap-5">
           <a className="font-serif text-xl text-white cursor-pointer">Home</a>
           <a className="font-serif text-xl text-white cursor-pointer">Properties</a>
-          <a className="font-serif text-xl text-white cursor-pointer">Contact Us</a>
           <a className="font-serif text-xl text-white cursor-pointer">About Us</a>
+          <a className="font-serif text-xl text-white cursor-pointer">Contact Us</a>
         </div>
       </div>
       <Home />
@@ -26,7 +26,9 @@ const App = () => {
 
        <div class=' flex flex-col w-1/4 justify-center items-center '>
        <RentIqIcon size={90} className="text-blue-600 cursor-pointer" />
-       <p class='font-serif text-wrap text-1xl font-medium text-center'>My New Tesing Text for the ksnk,ms nkcm,. vmkszxmn ,jdvukqyeg xcv hebkv,mmx zvhwdvj</p>
+       <p class='w-3/4 font-serif text-wrap text-xl font-medium text-center'>RentIQ connects renters with trusted properties effortlessly.
+        Your journey to a better living space starts here
+       </p>
        </div>
 
        <div class=' flex  flex-col w-1/4 justify-center items-center gap-4'>
