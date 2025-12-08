@@ -2,7 +2,8 @@ import RentIqIcon from "./assets/Icon";
 import Home from "./Homepage";
 import Properties from "./Properties";
 import About from "./Info";
-
+import { Link } from "lucide-react";
+// import { Link, Routes, Route } from "react-router-dom";
 const App = () => {
   return (
     <>
@@ -13,17 +14,22 @@ const App = () => {
           <p className="font-serif text-2xl text-white cursor-pointer">RentIq</p>
         </div>
         <div className="flex justify-end items-center p-10 gap-5">
-          <a className="font-serif text-xl text-white cursor-pointer">Home</a>
-          <a className="font-serif text-xl text-white cursor-pointer">Properties</a>
-          <a className="font-serif text-xl text-white cursor-pointer">About Us</a>
-          <a className="font-serif text-xl text-white cursor-pointer">Contact Us</a>
+          <Link to={'/'} className="font-serif text-xl text-white cursor-pointer">Home</Link>
+          <Link to={'/Properties'} className="font-serif text-xl text-white cursor-pointer">Properties</Link>
+          <Link to={'/Info'} className="font-serif text-xl text-white cursor-pointer">About Us</Link>
+          <Link className="font-serif text-xl text-white cursor-pointer">Contact Us</Link>
         </div>
       </div>
-      <Home />
-      <Properties />
-      <About/>
-      <div class='min-w-screen h-80 bg-slate-500 flex p-5'>
+     <Home />
+     <Properties />
+     <About />
 
+      {/* <Routes>
+        <Route path="/" element={<Home/>}/>
+        <Route path="/Info" element={<About/>} />
+        <Route path="/Properties" element={<Properties/>}/>
+      </Routes> */}
+      <div class='min-w-screen h-80 bg-slate-500 flex p-5'>
        <div class=' flex flex-col w-1/4 justify-center items-center '>
        <RentIqIcon size={90} className="text-blue-600 cursor-pointer" />
        <p class='w-3/4 font-serif text-wrap text-xl font-medium text-center'>RentIQ connects renters with trusted properties effortlessly.
